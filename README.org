@@ -1,0 +1,9 @@
+* archive
+
+A Common Lisp library for reading archive (tar, cpio, etc.) files
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/sharplispers/archive.git |
+| commit  | 631271c                                         |
+| systems | archive                                         |
+|---------+-------------------------------------------------|
